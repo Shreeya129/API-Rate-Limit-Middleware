@@ -29,8 +29,8 @@ The middleware intercepts incoming HTTP requests, tracks request counts per clie
 
 ## 🧠 Example Flow
 ->This confirms that the Rate Limit Middleware allows requests when they are within the permitted limit.
-<img width="1536" height="1024" alt="Success" src="https://github.com/user-attachments/assets/bd6fbf17-378e-4e73-a524-9c854d9a1703" />
+<img width="1536" height="1024" alt="Success" src="https://github.com/user-attachments/assets/9ab43c4f-cd31-4cfb-bc3a-ae224d444030" />
 
 ->This screenshot shows the API blocking requests when the rate limit is exceeded, returning HTTP 429.
-<img width="1536" height="1024" alt="Failure" src="https://github.com/user-attachments/assets/9ab43c4f-cd31-4cfb-bc3a-ae224d444030" />
+<img width="1536" height="1024" alt="Failure" src="https://github.com/user-attachments/assets/bd6fbf17-378e-4e73-a524-9c854d9a1703" />
 
