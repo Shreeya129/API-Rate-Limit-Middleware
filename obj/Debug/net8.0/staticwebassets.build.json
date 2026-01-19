@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sOK3JcpTlHcOT1ei90LZXDwTXZpF97aU5l933qljjIg=",
+  "Source": "RateLimitMiddleware",
+  "BasePath": "_content/RateLimitMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
